@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "StoryBook",
+        "title": "Great Thoughts with Great Book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "2",
+        "name": "Enlighten",
+        "title": "Journey of Enlightenment",
+        "price": 10,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "3",
+        "name": "MindfulReads",
+        "title": "Mindfulness and Life Lessons",
+        "price": 5,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "4",
+        "name": "KnowledgeBase",
+        "title": "Unlock the Power of Knowledge",
+        "price": 15,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "5",
+        "name": "LiteraryWorld",
+        "title": "Exploring Literary Masterpieces",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "6",
+        "name": "ImaginationHub",
+        "title": "Discover the Power of Imagination",
+        "price": 12,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "7",
+        "name": "InspirationPages",
+        "title": "Inspirational Stories for Everyone",
+        "price": 7,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "8",
+        "name": "BookExplorer",
+        "title": "Adventure in Every Page",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "9",
+        "name": "WisdomReads",
+        "title": "A World of Wisdom",
+        "price": 20,
+        "category": "Premium",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    },
+    {
+        "id": "10",
+        "name": "PageTurner",
+        "title": "Books that Keep You Hooked",
+        "price": 8,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1729256984~exp=1729260584~hmac=7b8b3ffa6542dad2b53139ec3da3865e80e173df50f3560034fc01cbecb2a1b6&w=1060"
+    }
+]
